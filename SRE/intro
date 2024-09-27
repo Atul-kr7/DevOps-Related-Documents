@@ -1,0 +1,26 @@
+
+
+1.linux
+2.Storage
+3. connectivity
+
+
+
+storage array dell hp lenveo physical hardisk 
+
+storage will provide 
+SAN protocol 
+a. FC protocol
+b. iscsi Protocol
+c. fcoe 
+
+FC - expansive solution  it is talk using air 
+iscsi - using ip address it is slow as compare to fc.
+
+WWPN - world wide port number
+wwnn - world wide node number
+
+
+
+
+ 
